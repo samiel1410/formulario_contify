@@ -1,0 +1,8 @@
+[22-May-2023 20:20:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecwarezc/beta3.ecwarez.com/php/base/db.php on line 5
+[22-May-2023 20:20:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecwarezc/beta3.ecwarez.com/php/base/db.php on line 5
+[22-May-2023 20:28:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecwarezc/beta3.ecwarez.com/php/base/db.php on line 5
+[23-May-2023 13:48:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecwarezc/beta3.ecwarez.com/php/base/db.php on line 5
+[23-May-2023 13:51:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecwarezc/beta3.ecwarez.com/php/base/db.php on line 5
+[23-May-2023 13:53:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ecwarezc_samiel'@'localhost' (using password: YES) in /home/ecwarezc/beta3.ecwarez.com/php/base/db.php on line 5
+[23-May-2023 13:53:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ecwarezc_samiel'@'localhost' (using password: YES) in /home/ecwarezc/beta3.ecwarez.com/php/base/db.php on line 5
+[23-May-2023 13:53:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ecwarezc_samiel'@'localhost' (using password: YES) in /home/ecwarezc/beta3.ecwarez.com/php/base/db.php on line 5
